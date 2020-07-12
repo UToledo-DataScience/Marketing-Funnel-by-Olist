@@ -30,7 +30,7 @@ After a qualified lead fills in a form at a landing page he is contacted by a Sa
   * Shark - Dominance
   * Eagle - Influence
   * Cat - Steadiness
-* *Wolf - Conscientiousness
+  * Wolf - Conscientiousness
 * has_company: Does the lead have a company (formal documentation)?
 * had_gtin: Does the lead have Global Trade Item Number (barcode) for his product?
 * declared_product_catalog_size: Size of the product catalog
