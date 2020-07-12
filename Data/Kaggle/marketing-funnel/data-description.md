@@ -27,9 +27,9 @@ After a qualified lead fills in a form at a landing page he is contacted by a Sa
 * business_segment: Lead business segment. Informed on contact.
 * lead_type: Lead type. Informed on contact.
 * lead_behaviour_profile: Lead behaviour profile. SDR identify it on contact. https://www.discprofile.com/what-is-disc/overview/.
-* *Shark - Dominance
-* * Eagle - Influence
-* * Cat - Steadiness
+  * Shark - Dominance
+  * Eagle - Influence
+  * Cat - Steadiness
 * *Wolf - Conscientiousness
 * has_company: Does the lead have a company (formal documentation)?
 * had_gtin: Does the lead have Global Trade Item Number (barcode) for his product?
